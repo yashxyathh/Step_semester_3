@@ -17,6 +17,6 @@ public class ArmstrongNumber {
 
         }else{
             System.out.println(origNumber+" is not an Armstrong Number.");
-        }
-    }
+        }sc.close();
+    } 
 }
