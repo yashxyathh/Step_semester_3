@@ -1,10 +1,10 @@
-## Date: 22-08-2026
+## Date: 05-09-2026
 **Today's Work:**
-- learn basics logics in java
+- session 3 
 
 **Next Session Plan:**
-- What you plan to work on next
+- do all the problem and update the git repo
   
 **Issues Faced:**
-- syntax error and some logical error
+- git repo maintain
 ---
